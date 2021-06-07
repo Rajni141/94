@@ -1,0 +1,13 @@
+body{
+background-color: peachpuff;
+text-align: center;
+    background-image: url("https://images.unsplash.com/photo-1487611459768-bd414656ea10?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cGVvcGxlJTIwd29ya2luZyUyMG9uJTIwbGFwdG9wfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80");
+}
+#div1{
+
+background-color: aqua;
+font-weight: 900;
+font-family: fantasy;
+font-style: oblique;
+font-size: medium;
+}
